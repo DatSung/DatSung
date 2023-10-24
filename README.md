@@ -21,6 +21,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
+  <a href="https://profile-summary-for-github.com/user/DatSung" target="_blank"> 
+    ![image](https://github.com/DatSung/DatSung/assets/109453487/45fd893b-1075-40b8-b66d-09032e26e446)
+  </a>
 </p>
 
 
