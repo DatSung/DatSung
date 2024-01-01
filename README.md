@@ -23,6 +23,7 @@
   </a>
 </p>
 
+<a href="https://wakatime.com/@8886bb28-a205-4492-9c1a-3e66862e9b94"><img src="https://wakatime.com/badge/user/8886bb28-a205-4492-9c1a-3e66862e9b94.svg" alt="Total time coded since Jul 17 2022" /></a>
 
 <!---
 DatSung/DatSung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
