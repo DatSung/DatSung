@@ -27,7 +27,7 @@
   <a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://dotnet.microsoft.com/en-us/apps/aspnet)" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
-  <a href="[[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://dotnet.microsoft.com/en-us/apps/aspnet)](https://react.dev/)" target="_blank"> 
+  <a href="https://react.dev/" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="javascript" width="40" height="40"/> 
   </a>
 </p>
