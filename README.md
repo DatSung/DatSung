@@ -14,7 +14,7 @@
   <a href="https://www.w3schools.com/cs/" rel="nofollow"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> 
   </a>
-  <a href="[https://www.w3schools.com/cs/](https://dotnet.microsoft.com/en-us/apps/aspnet)" rel="nofollow"> 
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" rel="nofollow"> 
     <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> 
   </a>
   </br>
