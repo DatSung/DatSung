@@ -25,7 +25,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="30" height="30"/> 
   </a>
   <a href="https://react.dev/" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="javascript" width="40" height="40"/> 
