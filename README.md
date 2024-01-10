@@ -27,6 +27,9 @@
   <a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://dotnet.microsoft.com/en-us/apps/aspnet)" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
+  <a href="[[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://dotnet.microsoft.com/en-us/apps/aspnet)](https://react.dev/)" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="javascript" width="40" height="40"/> 
+  </a>
 </p>
 
 <a href="https://wakatime.com/@8886bb28-a205-4492-9c1a-3e66862e9b94"><img src="https://wakatime.com/badge/user/8886bb28-a205-4492-9c1a-3e66862e9b94.svg" alt="Total time coded since Jul 17 2022" /></a>
