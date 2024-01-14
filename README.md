@@ -33,6 +33,8 @@
 </p>
 
 <a href="https://wakatime.com/@8886bb28-a205-4492-9c1a-3e66862e9b94"><img src="https://wakatime.com/badge/user/8886bb28-a205-4492-9c1a-3e66862e9b94.svg" alt="Total time coded since Jul 17 2022" /></a>
+
+<figure><embed src="https://wakatime.com/share/@datsung/8c15bdc2-9203-4c87-a453-3d6d9a79e898.svg"></embed></figure>
 <!---
 DatSung/DatSung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
