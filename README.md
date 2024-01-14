@@ -2,7 +2,8 @@
 <h3 align="center">A Software Engineer in the Future 👋</h3></br>
 
 - 🌱 I’m currently learning Software Engineering in FPT University.
-
+[![](https://visitcount.itsvg.in/api?id=DatSung&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://wakatime.com/@8886bb28-a205-4492-9c1a-3e66862e9b94"><img src="https://wakatime.com/badge/user/8886bb28-a205-4492-9c1a-3e66862e9b94.svg" alt="Total time coded since Jul 17 2022" /></a>
 </br>
 
 
@@ -33,10 +34,7 @@
 ![](https://github-trophies.vercel.app/?username=DatSung&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DatSung&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<a href="https://wakatime.com/@8886bb28-a205-4492-9c1a-3e66862e9b94"><img src="https://wakatime.com/badge/user/8886bb28-a205-4492-9c1a-3e66862e9b94.svg" alt="Total time coded since Jul 17 2022" /></a>
 
 <!---
 DatSung/DatSung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
