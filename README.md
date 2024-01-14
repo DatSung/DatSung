@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm DatSung</h1>
 <h3 align="center">A Software Engineer in the Future 👋</h3></br>
 
-- 🌱 I’m currently learning Software Engineering in FPT University.</br>
+- 🌱 I’m currently learning Software Engineering in FPT University.
+
+</br>
+
 
 # 💻Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
