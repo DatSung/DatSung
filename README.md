@@ -1,3 +1,4 @@
+<figure><embed src="https://wakatime.com/share/@datsung/b3f1b7bb-96af-4b03-bdbf-25e170be097a.svg"></embed></figure>
 <h1 align="center">Hi 👋, I'm DatSung</h1>
 <h3 align="center">A Software Engineer in the Future 👋</h3></br>
 
