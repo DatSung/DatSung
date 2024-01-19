@@ -1,7 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm DatSung</h1>
 <h3 align="center">A Software Engineer in the Future 👋</h3></br>
-<figure><embed src="https://wakatime.com/share/@datsung/b3f1b7bb-96af-4b03-bdbf-25e170be097a.svg"></embed></figure>
 - 🌱 I’m currently learning Software Engineering in FPT University.
 <br>
 <a href="https://wakatime.com/@8886bb28-a205-4492-9c1a-3e66862e9b94"><img src="https://wakatime.com/badge/user/8886bb28-a205-4492-9c1a-3e66862e9b94.svg" alt="Total time coded since Jul 17 2022" /></a>
