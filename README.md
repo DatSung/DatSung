@@ -4,7 +4,6 @@
 <br>
 
 <a href="https://wakatime.com/@8886bb28-a205-4492-9c1a-3e66862e9b94"><img src="https://wakatime.com/badge/user/8886bb28-a205-4492-9c1a-3e66862e9b94.svg" alt="Total time coded since Jul 17 2022" /></a>
-
 </br>
 # 💻Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
