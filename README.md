@@ -26,8 +26,6 @@
 <br>
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-<figure><embed src="https://wakatime.com/share/@datsung/b3f1b7bb-96af-4b03-bdbf-25e170be097a.svg"></embed></figure>
 # 📊GitHub Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DatSung&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DatSung&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
