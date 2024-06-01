@@ -7,7 +7,7 @@
 </br>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@datsung/11d00549-57d9-443c-8fb4-6e0a8a89c460.png" /></a>
 </br>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@datsung/2cb87d8d-bb72-46bc-b557-9f8d8465fd04.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@datsung/b4a0c5e4-16ba-4e75-9ae7-3db51bc24352.png" /></a>
 </br>
 
 # 💻 Tech Stack:
