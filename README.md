@@ -7,6 +7,8 @@
 </br>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@datsung/11d00549-57d9-443c-8fb4-6e0a8a89c460.png" /></a>
 </br>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@datsung/2cb87d8d-bb72-46bc-b557-9f8d8465fd04.png" /></a>
+</br>
 
 # 💻 Tech Stack:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br> ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) <br> ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
