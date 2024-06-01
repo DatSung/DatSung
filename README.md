@@ -4,7 +4,7 @@
 <br>
 
 <a href="https://wakatime.com/@8886bb28-a205-4492-9c1a-3e66862e9b94"><img src="https://wakatime.com/badge/user/8886bb28-a205-4492-9c1a-3e66862e9b94.svg" alt="Total time coded since Jul 17 2022" /></a>
-<figure><embed src="https://wakatime.com/share/@datsung/e87e0931-96d7-40c7-930a-b6d7b1098875.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@datsung/9960785f-7bda-4a89-8a5b-2f8e63a226a5.svg"></embed></figure>
 </br>
 
 # 💻 Tech Stack:
